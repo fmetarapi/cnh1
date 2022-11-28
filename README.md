@@ -1,2 +1,2 @@
 # cnh1 - App
-> FM Business Application
+> FM2 Business Application
